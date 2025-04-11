@@ -1,0 +1,13 @@
+{
+  "version": "1.1.0",
+  "files": [
+    {
+      "name": "bliss_dynamic.py",
+      "url": "https://raw.githubusercontent.com/khikhinba/bliss-updates/main/bliss_dynamic.py"
+    },
+    {
+      "name": "bliss_context.py",
+      "url": "https://raw.githubusercontent.com/khikhinba/bliss-updates/main/bliss_context.py"
+    }
+  ]
+}
